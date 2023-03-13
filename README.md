@@ -1,7 +1,7 @@
 # project-maid
 
-![](https://github.com/dsibournemouth/project-maid/blob/main/WB_FLEX-NS048.gif)
-![](WB_FLEX-NS048.gif)
+![](WB_FLEX-NS048_CLEAN.gif)
+![](WB_FLEX-NS048_OBSTR.gif)
 
 AI for automatic vertebrae motion tracking in fluoroscopic images.
 This project is supported by the Medical Research Council grant number MR/X005372/1
